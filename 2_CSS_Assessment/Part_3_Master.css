@@ -1,0 +1,28 @@
+
+/* * symbol does not always follow top down correction */
+* {
+    color: black;
+ }
+
+div {
+    color: red;
+    background-color: rgb(231, 231, 231);
+}
+
+/* classes require period before starting */
+
+
+.firstDiv {
+    color: blue;
+}
+
+.secondDiv {
+    background-color: gold;
+}
+
+/* ID's require # symbol */
+
+ #singledout {
+    color: green;
+    text-decoration: line-through;
+ }
