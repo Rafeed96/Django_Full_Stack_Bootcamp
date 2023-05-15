@@ -61,7 +61,7 @@ There is a textarea element with the id=textblock, give it the following propert
 /*Task # 7
 There is a link to Google on the page. Make this link red.*/
 
-li a[href="http://www.google.com"] {
+a {
     color: red;
  }
 
@@ -90,5 +90,5 @@ Can you figure out how to change the color if you click on the link?
 (Hint: Google "css visited") */
 
 a:visited {
-    color: pink;
+    color: purple;
   }
