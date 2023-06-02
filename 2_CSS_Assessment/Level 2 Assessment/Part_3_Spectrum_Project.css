@@ -1,19 +1,45 @@
 h1 {
     font-family: 'Caveat', cursive;
+    text-align: center;
+    font-size: 40px;
 }
 
 table {
     border: 10px;
+    margin: auto;    
 }
 
 tr {
     border: 10px;
 }
 
-td {
-    border: 10px;
-    height: 100px;
+td {    
+    height: 300px;
     width: 150px;
     background-color: #222 ;
+    padding: 20px;    
+    color: #fff;
+    text-align: center;
+
+}
+
+#one{
+    background-color: #1E1D1E;
+}
+
+#two {
+    background-color: #3772FF;
+}
+
+#three {
+    background-color: #DF2935;
+}
+
+#four {
+    background-color: #FDCA40;
+}
+
+#five {
+    background-color: #E6E8E6;
 }
 
