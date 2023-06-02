@@ -16,12 +16,7 @@ tr {
 td {    
     height: 300px;
     width: 150px;
-    background-color: #222 ;
-    padding: 20px;    
-    color: #fff;
-    text-align: center;
     border: 6px solid white;
-
 }
 
 #one{
