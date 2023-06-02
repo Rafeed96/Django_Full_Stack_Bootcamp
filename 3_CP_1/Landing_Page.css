@@ -13,10 +13,6 @@ p {
     padding: 100px;
 }
 
-.form {
-    padding: 10px;
-    border: 10px;
-}
 
 button {
     border: 10px;
@@ -27,4 +23,14 @@ button {
     border: 1px solid white;
     margin: 1px;
     font-size: 20px;
+}
+
+.form p {
+    padding: 0;
+    border: 0;
+}
+
+.form input {
+    height: 30px;
+    width: 250px;
 }
