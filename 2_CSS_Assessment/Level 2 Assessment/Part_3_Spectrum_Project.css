@@ -1,7 +1,19 @@
-#one {
-    background-color: blue;
-}
-
 h1 {
     font-family: 'Caveat', cursive;
 }
+
+table {
+    border: 10px;
+}
+
+tr {
+    border: 10px;
+}
+
+td {
+    border: 10px;
+    height: 100px;
+    width: 150px;
+    background-color: #222 ;
+}
+
