@@ -1,1 +1,7 @@
-#one
+#one {
+    background-color: blue;
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+}
